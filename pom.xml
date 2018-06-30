@@ -3,10 +3,10 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mycompany</groupId>
-	<artifactId>2mule-maven-deployment-demo</artifactId>
+	<artifactId>mule-cicd-cloudhub-demo</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule</packaging>
-	<name>Mule 2mule-maven-deployment-demo Application</name>
+	<name>Mule mule-cicd-cloudhub-demo Application</name>
 
 	<parent>
 		<groupId>com.mycompany</groupId>
